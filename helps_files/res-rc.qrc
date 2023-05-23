@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/query_stats_icon.svg</file>
+    <file>icons/description_icon.svg</file>
+    <file>icons/done_icon.svg</file>
+    <file>icons/search_icon.svg</file>
+    <file>icons/travel_icon.svg</file>
+    <file>icons/visibility_icon.svg</file>
+  </qresource>
+</RCC>
